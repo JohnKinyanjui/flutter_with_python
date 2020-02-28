@@ -1,6 +1,6 @@
 # flutter_py
 
-A new Flutter application.
+This is a simple pp that helps one to learn how to connect with pytho in flutter projects.
 
 ## Getting Started
 
